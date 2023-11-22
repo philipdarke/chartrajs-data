@@ -1,5 +1,7 @@
 # Prepare CharacterTrajectories data set
 
+:information_source: **The [Time Series Classification](https://www.timeseriesclassification.com/) repository has adopted this version of the data set. The data can be downloaded from [here](https://www.timeseriesclassification.com/aeon-toolkit/CharacterTrajectories.zip). This repository is archived to preserve the audit trail.**
+
 Prepare the [CharacterTrajectories](https://archive.ics.uci.edu/dataset/175/character+trajectories) data set for modelling. The code:
 
 - removes padding
