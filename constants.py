@@ -57,8 +57,8 @@ COMMENT = """# Version 3: November 2023
 # segment were considered. 
 #
 # Character segmentation was performed using a pen tip force cut-off point. The
-characters have also been shifted so that their velocity profiles best match the mean of
-# the set.
+# characters have also been shifted so that their velocity profiles best match the mean
+# of the set.
 #
 # Each instance is a 3-dimensional pen tip velocity trajectory. The original data has
 # different length cases. The class label is one of 20 characters: a, b, c, d, e, g, h,
